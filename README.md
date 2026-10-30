@@ -74,6 +74,7 @@ npm run setup-db
 You should see:
 ```
 🎉  Database setup complete!
+
     Admin Login: Sridevisri089@gmail.com / Sridevi@2026
 ```
 
